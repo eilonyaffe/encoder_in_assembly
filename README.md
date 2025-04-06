@@ -22,4 +22,4 @@ An encoder written entirely in Intel 80x86 32-bit assembly, using raw Linux syst
 
 ## Usage
 
-Compile using `nasm` and `gcc`:
+Compile using `nasm` and `gcc`
